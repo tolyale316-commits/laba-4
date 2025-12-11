@@ -7,7 +7,7 @@ void Task424() {
     SetConsoleCP(1251);
 
     int N;
-    printf("Введите количество строк для узора: ");
+    printf("Введите количество строк для узора:  jggfghouhhogvhiojholjbjivhghh,ghjlvhy");
     scanf_s("%d", &N);
 
     printf("Узор 4.2.4* по варианту 5 (зеркальный):\n");
